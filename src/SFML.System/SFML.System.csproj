@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <SFMLModule>System</SFMLModule>
+  </PropertyGroup>
+
+  <!-- <Import Project="..\..\SFML.Module.props" /> -->
+
+</Project>
